@@ -1,6 +1,6 @@
 ### Hey 🤪
 
-<p align="center"><img src="catnofes.gif"></p>
+<p align="left"><img src="catnofes.gif"></p>
 
 
 
