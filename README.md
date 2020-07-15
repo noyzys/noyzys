@@ -1,5 +1,5 @@
 <h1 align="center">Hey 😠 Discord: nzys#0366</h1>
-<p align="center"><img src="https://github.com/vFeesT/vFeesT/raw/master/catnofes.gif"></p>
+<p align="center"><img src="https://github.com/vFeesT/noyzys/raw/master/catnofes.gif"></p>
 
 
 
