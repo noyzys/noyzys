@@ -1,5 +1,5 @@
-<h1 align="center">Hey 😠 Discord: noyzys#0366</h1>
-<p align="center"><img src="https://github.com/noyzys/noyzys/raw/master/catnofes.gif"></p>
+<h1 align="center">Real Damian 🙉</h1>
+<p align="center"><img src="https://github.com/noyzys/noyzys/raw/master/cutecat.gif"></p>
 
 
 
