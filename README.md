@@ -1,9 +1,8 @@
 <h1 align="center">⚡ dev.nautchkafe ⚡</h1>
-<p align="center"><img src="https://github.com/noyzys/noyzys/raw/master/catsyple.gif"></p>
-
-[![noyzys Followers](https://img.shields.io/github/followers/noyzys?color=brightgreen&label=Followers)](https://github.com/noyzys?tab=followers)
+<h2 align="center">[![noyzys Followers](https://img.shields.io/github/followers/noyzys?color=brightgreen&label=Followers)](https://github.com/noyzys?tab=followers)
 [![noyzys Profile Views](https://komarev.com/ghpvc/?username=noyzys&color=brightgreen)](https://github.com/noyzys)
-
+/<h2>
+<p align="center"><img src="https://github.com/noyzys/noyzys/raw/master/catsyple.gif"></p>
 
 
 
